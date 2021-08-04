@@ -1,5 +1,3 @@
-//Teste Teste
-//Gol do Brasil
 package julio.rutke;
 
 public class Professor extends Pessoa {
